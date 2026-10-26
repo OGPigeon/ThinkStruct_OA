@@ -1,0 +1,8 @@
+.venv/
+data/
+indexes/
+work/
+__pycache__/
+*.pyc
+.DS_Store
+poc/state/
