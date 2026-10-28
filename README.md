@@ -1,6 +1,7 @@
 # Hybrid patent prior-art search with claim mapping
 
 Thinkstruct coding task.
+Video: https://youtu.be/TwSriYTC5FA
 
 | Part | Contents |
 |---|---|
